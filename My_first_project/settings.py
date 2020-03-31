@@ -25,7 +25,7 @@ SECRET_KEY = '3kppgokm$lxm5p*0*fn+0*@md)p&^zuqc2h8qeg-v8wehyll3!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://github.com/SharathKumarMS/first_blog.git"]
 
 
 # Application definition
